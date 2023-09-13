@@ -199,3 +199,29 @@ span{
   text-align: center;
   padding: 50px;
 }
+.no19{
+  background-color: aliceblue;
+  margin-bottom: 10%;
+  border-radius: 10px;
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 10%;
+}
+
+.no20{
+  font-size: 30px;
+  padding: 10px;
+  text-align: center;
+  margin-top: 15%;
+}
+
+.no21{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.no22{
+  height: 40%;
+  width: 70%;
+}
+
